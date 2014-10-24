@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.swo
+*.log
+._*
+cscope.out
+cscope.files
+logs
+.DS_Store
+tags
+test_log*
